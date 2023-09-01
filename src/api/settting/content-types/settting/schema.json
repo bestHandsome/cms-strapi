@@ -1,0 +1,18 @@
+{
+  "kind": "singleType",
+  "collectionName": "setttings",
+  "info": {
+    "singularName": "settting",
+    "pluralName": "setttings",
+    "displayName": "settting"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "banners": {
+      "type": "json"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_card_tests",
+  "info": {
+    "displayName": "test",
+    "icon": "apps"
+  },
+  "options": {},
+  "attributes": {
+    "setting": {
+      "type": "json"
+    }
+  }
+}
